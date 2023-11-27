@@ -1,0 +1,211 @@
+body{
+    background-color: honeydew;
+    margin: 0%;
+}
+
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+nav li {
+    display: inline-block;
+    margin-right: 20px;
+}
+
+nav a {
+    text-decoration: none;
+    color: rosybrown;
+    font-size: 15px;
+    font-weight: bold;
+    text-shadow: 1px 2px 5px darkgray;
+    position:static;
+}
+
+.business{
+    font-size: 5vw;
+    text-align: center;
+    font-family: 'Segoe UI';
+    color:brown;
+    text-shadow: 1px 2px 5px darkgray;
+    position: static;
+}
+
+h2{
+    font-size: 2vw;
+    text-align: left;
+    font-family: 'Segoe UI';
+    color:brown;
+    margin-left: 50px;
+    position:static;
+}
+
+.first {
+    text-align: justify;
+    position:absolute;
+    left: 400px;
+    top:310px;
+    margin-right:50px;
+    font-size: 1.5vw;
+    background-color: #f0f0f0;
+    padding: 20px;
+    border-radius: 20px; 
+}
+
+.second{
+    text-align: justify;
+    position:absolute;
+    left: 400px;
+    top:600px;
+    margin-right:50px;
+    font-size: 1.5vw;
+    background-color: #f0f0f0;
+    padding: 20px;
+    border-radius: 20px;
+}
+
+.third{
+    text-align: justify;
+    position:absolute;
+    left: 400px;
+    top:930px;
+    margin-right:50px;
+    font-size: 1.5vw;
+    background-color: #f0f0f0;
+    padding: 20px;
+    border-radius: 20px;
+}
+
+.fourth{
+    text-align: justify;
+    position:absolute;
+    left: 400px;
+    top:1240px;
+    margin-right:50px;
+    font-size: 1.5vw;
+    background-color: #f0f0f0;
+    padding: 20px;
+    border-radius: 20px;
+}
+
+li{
+    font-size: 2vw;
+    text-align: left;
+    font-family: 'Segoe UI';
+    color:brown;
+    margin-left: 50px;
+    font-weight: bold;
+
+}
+
+.price1 {
+    text-align:right;
+    position:absolute;
+    top: 470px;
+    margin-left:350px;
+    font-size: 15px;
+    background-color: darkgray;
+    padding: 15px;
+    border-radius: 10px; 
+}
+
+.availability1{
+    text-align:right;
+    position:absolute;
+    top: 470px;
+    margin-left:420px;
+    font-size: 15px;
+    background-color: darkgray;
+    padding: 15px;
+    border-radius: 10px; 
+}
+
+.price2{
+    text-align:right;
+    position:absolute;
+    top: 740px;
+    margin-left:350px;
+    font-size: 15px;
+    background-color: darkgray;
+    padding: 15px;
+    border-radius: 10px; 
+}
+
+.availability2{
+    text-align:right;
+    position:absolute;
+    top: 740px;
+    margin-left:420px;
+    font-size: 15px;
+    background-color: darkgray;
+    padding: 15px;
+    border-radius: 10px; 
+}
+
+.price3{
+    text-align:right;
+    position:absolute;
+    top: 1090px;
+    margin-left:350px;
+    font-size: 15px;
+    background-color: darkgray;
+    padding: 15px;
+    border-radius: 10px; 
+}
+
+.availability3{
+    text-align:right;
+    position:absolute;
+    top: 1090px;
+    margin-left:420px;
+    font-size: 15px;
+    background-color: darkgray;
+    padding: 15px;
+    border-radius: 10px; 
+}
+
+.price4{
+    text-align:right;
+    position:absolute;
+    top: 1400px;
+    margin-left:350px;
+    font-size: 15px;
+    background-color: darkgray;
+    padding: 15px;
+    border-radius: 10px; 
+}
+
+.availability4{
+    text-align:right;
+    position:absolute;
+    top: 1400px;
+    margin-left:420px;
+    font-size: 15px;
+    background-color: darkgray;
+    padding: 15px;
+    border-radius: 10px; 
+}
+
+footer {
+    background-color: darkslategrey;
+    color: white;
+    text-align: center;
+    padding: 10px 0;
+    position: static;
+    bottom: 0px;
+    width: 100%;
+    margin: 0%;
+}
+
+footer p {
+    align-items: left;
+    margin-left: 50px;
+    text-shadow: 1px 2px 5px black;
+    text-align: left;
+    font-family: 'Segoe UI';
+    font-size: 1vw;
+    font-weight: bold;
+    color: pink;
+    
+}
